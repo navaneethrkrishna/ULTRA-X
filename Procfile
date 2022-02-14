@@ -1,1 +1,2 @@
-ULTRA X: python3 -m ULTRA
+
+worker: python3 motech.py
